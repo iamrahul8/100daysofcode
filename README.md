@@ -21,7 +21,7 @@
 | Day 19  |    | [Link]()  | 
 | Day 20  |    | [Link]()  | 
 | Day 21  |    | [Link]()  | 
-| Day 22  |    | [Link]()  | 
+| Day 47  |  Fact Digit Sum  | [Link](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)  | 
 
 
 
