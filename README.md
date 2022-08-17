@@ -22,6 +22,8 @@
 | Day 20  |    | [Link]()  | 
 | Day 21  |    | [Link]()  | 
 | Day 47  |  Fact Digit Sum  | [Link](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)  | 
+| Day 48  | Knight Walk  | [Link](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)  | 
+| Day 49  |    | [Link]()  | 
 
 
 
