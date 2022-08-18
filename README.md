@@ -23,7 +23,8 @@
 | Day 21  |    | [Link]()  | 
 | Day 47  |  Fact Digit Sum  | [Link](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)  | 
 | Day 48  | Knight Walk  | [Link](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)  | 
-| Day 49  |    | [Link]()  | 
+| Day 49  |  Longest Sub-Array with Sum K  | [Link](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)  | 
+| Day 50  |    | [Link]()  | 
 
 
 
