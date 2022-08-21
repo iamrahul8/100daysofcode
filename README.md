@@ -26,9 +26,9 @@
 | Day 49  |  Longest Sub-Array with Sum K  | [Link](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)  | 
 | Day 50  | Unit Area of largest region of 1's   | [Link](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1)  | 
 | Day 51  | Sum of two large numbers   | [Link](https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number1219/1)  | 
-| Day 51  |    | [Link]()  | 
-| Day 51  |    | [Link]()  | 
-| Day 51  |    | [Link]()  | 
+| Day 52  | Game with nos   | [Link](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1)  | 
+| Day 53  |    | [Link]()  | 
+| Day 54  |    | [Link]()  | 
 
 
 
