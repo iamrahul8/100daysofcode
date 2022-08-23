@@ -29,7 +29,7 @@
 | Day 52  | Game with nos   | [Link](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1)  | 
 | Day 53  | Immediate Smaller Element
    | [Link](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1)  | 
-| Day 54  |    | [Link]()  | 
+| Day 54  | Foldable Binary Tree   | [Link](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)  | 
 
 
 
