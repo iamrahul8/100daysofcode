@@ -20,7 +20,7 @@
 | Day 18  |    | [Link]()  | 
 | Day 19  |    | [Link]()  | 
 | Day 20  |    | [Link]()  | 
-| Day 21  |    | [Link]()  | 
+
 | Day 47  |  Fact Digit Sum  | [Link](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)  | 
 | Day 48  | Knight Walk  | [Link](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)  | 
 | Day 49  |  Longest Sub-Array with Sum K  | [Link](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)  | 
@@ -30,6 +30,7 @@
 | Day 53  | Immediate Smaller Element
    | [Link](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1)  | 
 | Day 54  | Foldable Binary Tree   | [Link](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)  | 
-
-
+| Day 55  |  Generate IP Addresses  | [Link](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)  | 
+| Day 56  | Counting elements in two arrays   | [Link](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)  | 
+| Day 57  |  Count Palindromic Subsequences  | [Link](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)  | 
 
