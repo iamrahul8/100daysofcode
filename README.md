@@ -33,4 +33,5 @@
 | Day 55  |  Generate IP Addresses  | [Link](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)  | 
 | Day 56  | Counting elements in two arrays   | [Link](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)  | 
 | Day 57  |  Count Palindromic Subsequences  | [Link](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)  | 
-
+| Day 58  |  Alternate positive and negative numbers  | [Link](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)  | 
+| Day 59  |    | [Link]()  | 
