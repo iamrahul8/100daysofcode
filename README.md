@@ -35,3 +35,6 @@
 | Day 57  |  Count Palindromic Subsequences  | [Link](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)  | 
 | Day 58  |  Alternate positive and negative numbers  | [Link](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)  | 
 | Day 59  | Binary Tree to DLL   | [Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)  | 
+| Day 59  | Binary Tree to DLL   | [Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)  | 
+| Day 60  |    | [Link]()  | 
+| Day 61  | Merging Details   | [Link](https://practice.geeksforgeeks.org/problems/merging-details/1)  | 
