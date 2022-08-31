@@ -38,3 +38,4 @@
 | Day 59  | Binary Tree to DLL   | [Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)  | 
 | Day 60  |    | [Link]()  | 
 | Day 61  | Merging Details   | [Link](https://practice.geeksforgeeks.org/problems/merging-details/1)  | 
+| Day 62  |  Find all distinct subset (or subsequence) sums  | [Link](https://practice.geeksforgeeks.org/problems/find-all-distinct-subset-or-subsequence-sums4424/1)  | 
