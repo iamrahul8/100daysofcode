@@ -39,3 +39,4 @@
 | Day 60  |    | [Link]()  | 
 | Day 61  | Merging Details   | [Link](https://practice.geeksforgeeks.org/problems/merging-details/1)  | 
 | Day 62  |  Find all distinct subset (or subsequence) sums  | [Link](https://practice.geeksforgeeks.org/problems/find-all-distinct-subset-or-subsequence-sums4424/1)  | 
+| Day 63  |  Find pairs with given sum in doubly linked list  | [Link](https://practice.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)  | 
