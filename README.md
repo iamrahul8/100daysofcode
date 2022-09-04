@@ -41,3 +41,5 @@
 | Day 62  |  Find all distinct subset (or subsequence) sums  | [Link](https://practice.geeksforgeeks.org/problems/find-all-distinct-subset-or-subsequence-sums4424/1)  | 
 | Day 63  |  Find pairs with given sum in doubly linked list  | [Link](https://practice.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)  | 
 | Day 64  | Minimum Cost to cut a board into squares | [Link](https://practice.geeksforgeeks.org/problems/minimum-cost-to-cut-a-board-into-squares/1)  | 
+| Day 65  | Minimum time to fulfil all orders | [Link](https://practice.geeksforgeeks.org/problems/minimum-time-to-fulfil-all-orders/1)  | 
+| Day 66  | Print the pattern | [Link](https://practice.geeksforgeeks.org/problems/print-the-pattern1025/1)  | 
