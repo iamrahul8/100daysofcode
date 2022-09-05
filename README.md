@@ -43,3 +43,4 @@
 | Day 64  | Minimum Cost to cut a board into squares | [Link](https://practice.geeksforgeeks.org/problems/minimum-cost-to-cut-a-board-into-squares/1)  | 
 | Day 65  | Minimum time to fulfil all orders | [Link](https://practice.geeksforgeeks.org/problems/minimum-time-to-fulfil-all-orders/1)  | 
 | Day 66  | Print the pattern | [Link](https://practice.geeksforgeeks.org/problems/print-the-pattern1025/1)  | 
+| Day 67  | Smallest sum contiguous subarray | [Link](https://practice.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)  | 
