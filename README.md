@@ -44,3 +44,18 @@
 | Day 65  | Minimum time to fulfil all orders | [Link](https://practice.geeksforgeeks.org/problems/minimum-time-to-fulfil-all-orders/1)  | 
 | Day 66  | Print the pattern | [Link](https://practice.geeksforgeeks.org/problems/print-the-pattern1025/1)  | 
 | Day 67  | Smallest sum contiguous subarray | [Link](https://practice.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)  | 
+| Day 68  | Minimum Sum of Absolute Differences of Pairs | [Link](https://practice.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1)  | 
+| Day 69  | Stack Permutations | [Link](https://practice.geeksforgeeks.org/problems/stack-permutations/1)  | 
+| Day 70  | Sum of k smallest elements in BST | [Link](https://practice.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1)  | 
+| Day 71  | Smallest number with sum of digits as N and divisible by 10^N | [Link](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n4032/1)  | 
+| Day 72 | Ball coloring | [Link](https://practice.geeksforgeeks.org/problems/ball-coloring3450/1)  | 
+| Day 73  | Count occurrences of a given word in a 2-d array | [Link](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1)  | 
+| Day 74  |  | [Link]()  | 
+
+
+
+
+
+
+
+
