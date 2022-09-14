@@ -50,12 +50,12 @@
 | Day 71  | Smallest number with sum of digits as N and divisible by 10^N | [Link](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n4032/1)  | 
 | Day 72 | Ball coloring | [Link](https://practice.geeksforgeeks.org/problems/ball-coloring3450/1)  | 
 | Day 73  | Count occurrences of a given word in a 2-d array | [Link](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1)  | 
-| Day 74  |  | [Link]()  | 
+| Day 74  | Minimum Exchange | [Link](https://practice.geeksforgeeks.org/problems/distributing-question-papers2513/1)  | 
 
+| Day 75  | BST to max heap | [Link](https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1)  | 
+| Day 76  | Power Of 2 and Subsequences | [Link](https://practice.geeksforgeeks.org/problems/power-of-2-and-subsequences0759/1)  | 
 
-
-
-
+| Day 77  |  | [Link]()  | 
 
 
 
