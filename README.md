@@ -20,15 +20,13 @@
 | Day 18  |    | [Link]()  | 
 | Day 19  |    | [Link]()  | 
 | Day 20  |    | [Link]()  | 
-
 | Day 47  |  Fact Digit Sum  | [Link](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)  | 
 | Day 48  | Knight Walk  | [Link](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)  | 
 | Day 49  |  Longest Sub-Array with Sum K  | [Link](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)  | 
 | Day 50  | Unit Area of largest region of 1's   | [Link](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1)  | 
 | Day 51  | Sum of two large numbers   | [Link](https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number1219/1)  | 
 | Day 52  | Game with nos   | [Link](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1)  | 
-| Day 53  | Immediate Smaller Element
-   | [Link](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1)  | 
+| Day 53  | Immediate Smaller Element | [Link](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1)  | 
 | Day 54  | Foldable Binary Tree   | [Link](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)  | 
 | Day 55  |  Generate IP Addresses  | [Link](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)  | 
 | Day 56  | Counting elements in two arrays   | [Link](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)  | 
@@ -49,9 +47,8 @@
 | Day 70  | Sum of k smallest elements in BST | [Link](https://practice.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1)  | 
 | Day 71  | Smallest number with sum of digits as N and divisible by 10^N | [Link](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n4032/1)  | 
 | Day 72 | Ball coloring | [Link](https://practice.geeksforgeeks.org/problems/ball-coloring3450/1)  | 
-| Day 73  | Count occurrences of a given word in a 2-d array | [Link](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1)  | 
+| Day 73  | Count occurrences of a given word in a 2-d array | [Link](https://practice.geeksforgeeks.org/problems/count-occurences-of-a-given-word-in-a-2-d-array/1)  |
 | Day 74  | Minimum Exchange | [Link](https://practice.geeksforgeeks.org/problems/distributing-question-papers2513/1)  | 
-
 | Day 75  | BST to max heap | [Link](https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1)  | 
 | Day 76  | Power Of 2 and Subsequences | [Link](https://practice.geeksforgeeks.org/problems/power-of-2-and-subsequences0759/1)  | 
 | Day 77  | Smallest Subset with Greater Sum | [Link](https://practice.geeksforgeeks.org/problems/smallest-subset-with-greater-sum/1)  | 
