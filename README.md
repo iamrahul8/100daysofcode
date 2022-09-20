@@ -55,6 +55,7 @@
 | Day 75  | BST to max heap | [Link](https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1)  | 
 | Day 76  | Power Of 2 and Subsequences | [Link](https://practice.geeksforgeeks.org/problems/power-of-2-and-subsequences0759/1)  | 
 | Day 77  | Smallest Subset with Greater Sum | [Link](https://practice.geeksforgeeks.org/problems/smallest-subset-with-greater-sum/1)  | 
-| Day 78  | Minimum Swaps | [Link](https://practice.geeksforgeeks.org/problems/minimum-swaps-1649134975/1)  | 
-
+| Day 79  | Minimum Swaps | [Link](https://practice.geeksforgeeks.org/problems/minimum-swaps-1649134975/1)  | 
+| Day 80  |  | [Link]()  | 
+| Day 81  | Smallest number on left | [Link](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1)  | 
 
