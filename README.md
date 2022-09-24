@@ -57,3 +57,6 @@
 | Day 81  | Smallest number on left | [Link](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1)  | 
 | Day 82  |  Maximum number of 2X2 squares  | [Link](https://practice.geeksforgeeks.org/problems/maximum-number-of-22-squares/1)  | 
 | Day 83  | License Key Formatting  | [Link](https://practice.geeksforgeeks.org/problems/license-key-formatting/1)  | 
+| Day 84  |  | [Link]()  | 
+| Day 85  |  | [Link]()  | 
+| Day 86  | The Bit Game  | [Link](https://practice.geeksforgeeks.org/problems/the-bit-game2313/1)  | 
