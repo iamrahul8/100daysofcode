@@ -61,3 +61,4 @@
 | Day 85  |  | [Link]()  | 
 | Day 86  | The Bit Game  | [Link](https://practice.geeksforgeeks.org/problems/the-bit-game2313/1)  | 
 | Day 87  | Queries on a Matrix | [Link](https://practice.geeksforgeeks.org/problems/queries-on-a-matrix0443/1)  | 
+| Day 88  | Tom and Jerry | [Link](https://practice.geeksforgeeks.org/problems/tom-and-jerry1325/1)  | 
