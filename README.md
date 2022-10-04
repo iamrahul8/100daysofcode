@@ -65,3 +65,8 @@
 | Day 89  | Minimum Cost of ropes | [Link](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)  | 
 | Day 90  | Fitting The Array | [Link](https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1)  | 
 | Day 91  | Sort an array of 0s, 1s and 2s | [Link](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)  | 
+| Day 92  |  | [Link]()  | 
+| Day 93  |  | [Link]()  | 
+| Day 94  |  | [Link]()  | 
+| Day 95  |  | [Link]()  | 
+| Day 96  | Count all possible paths from top left to bottom right | [Link](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1)  | 
