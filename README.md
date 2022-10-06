@@ -71,3 +71,4 @@
 | Day 95  |  | [Link]()  | 
 | Day 96  | Count all possible paths from top left to bottom right | [Link](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1)  | 
 | Day 97  | Geek and Strings | [Link](https://practice.geeksforgeeks.org/problems/geek-and-strings3030/1)  | 
+| Day 98  | Lexicographically smallest string | [Link](https://practice.geeksforgeeks.org/problems/mila-and-strings0435/1)  |
