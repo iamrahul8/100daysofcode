@@ -1,3 +1,5 @@
+## 100daysofcode with GFG
+
 | Days   | Question  | Link |
 |---|---|---|
 | Day 1  | Matrix Exponentiation  | [Link](https://practice.geeksforgeeks.org/problems/matrix-exponentiation2711/1)  |
@@ -73,3 +75,9 @@
 | Day 98  | Lexicographically smallest string | [Link](https://practice.geeksforgeeks.org/problems/mila-and-strings0435/1)  |
 | Day 99  | My Calendar III| [Link](https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1)  |
 | Day 100  | Substrings of length k| [Link](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1)  |
+
+<hr>
+
+Profile : [Link](https://auth.geeksforgeeks.org/user/rkgkumar072/)
+
+Finally I maintained more than 100days of streak on GFG, its not about just showingoff : its about realizing yourself, where you are now!!!
