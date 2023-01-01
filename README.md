@@ -33,7 +33,7 @@
 | Day 57  |  Count Palindromic Subsequences  | [Link](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)  | 
 | Day 58  |  Alternate positive and negative numbers  | [Link](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)  | 
 | Day 59  | Binary Tree to DLL   | [Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)  | 
-| Day 60  |    | [Link]()  | 
+| Day 60  | Next Right Node   | [Link](https://practice.geeksforgeeks.org/problems/next-right-node/1)  | 
 | Day 61  | Merging Details   | [Link](https://practice.geeksforgeeks.org/problems/merging-details/1)  | 
 | Day 62  |  Find all distinct subset (or subsequence) sums  | [Link](https://practice.geeksforgeeks.org/problems/find-all-distinct-subset-or-subsequence-sums4424/1)  | 
 | Day 63  |  Find pairs with given sum in doubly linked list  | [Link](https://practice.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)  | 
@@ -52,12 +52,12 @@
 | Day 76  | Power Of 2 and Subsequences | [Link](https://practice.geeksforgeeks.org/problems/power-of-2-and-subsequences0759/1)  | 
 | Day 77  | Smallest Subset with Greater Sum | [Link](https://practice.geeksforgeeks.org/problems/smallest-subset-with-greater-sum/1)  | 
 | Day 79  | Minimum Swaps | [Link](https://practice.geeksforgeeks.org/problems/minimum-swaps-1649134975/1)  | 
-| Day 80  |  | [Link]()  | 
+| Day 80  | Composite and Prime | [Link](https://practice.geeksforgeeks.org/problems/composite-and-prime0359/1)  | 
 | Day 81  | Smallest number on left | [Link](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1)  | 
 | Day 82  |  Maximum number of 2X2 squares  | [Link](https://practice.geeksforgeeks.org/problems/maximum-number-of-22-squares/1)  | 
 | Day 83  | License Key Formatting  | [Link](https://practice.geeksforgeeks.org/problems/license-key-formatting/1)  | 
-| Day 84  |  | [Link]()  | 
-| Day 85  |  | [Link]()  | 
+| Day 84  | IPL 2021 - Match Day 2 | [Link](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1)  | 
+| Day 85  | Geek and Number String | [Link](https://practice.geeksforgeeks.org/problems/904237fa926d79126d42c437802b04287ea9d1c8/1)  | 
 | Day 86  | The Bit Game  | [Link](https://practice.geeksforgeeks.org/problems/the-bit-game2313/1)  | 
 | Day 87  | Queries on a Matrix | [Link](https://practice.geeksforgeeks.org/problems/queries-on-a-matrix0443/1)  | 
 | Day 88  | Tom and Jerry | [Link](https://practice.geeksforgeeks.org/problems/tom-and-jerry1325/1)  | 
