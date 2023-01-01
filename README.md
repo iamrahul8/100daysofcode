@@ -4,22 +4,22 @@
 | Day 2  | Count the paths  | [Link](https://practice.geeksforgeeks.org/problems/count-the-paths4332/1)  |
 | Day 3  | Word Break - Part 2   | [Link](https://practice.geeksforgeeks.org/problems/word-break-part-23249/1)  | 
 | Day 4  | Minimum X (xor) A   | [Link](https://practice.geeksforgeeks.org/problems/x-xor-a-is-minimum-and-set-bits-in-x-b/1)  | 
-| Day 5  |    | [Link]()  | 
-| Day 6  |    | [Link]()  | 
+| Day 5  |  Count BST nodes that lie in a given range  | [Link](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)  | 
+| Day 6  |  Diagonal Traversal of Binary Tree  | [Link](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)  | 
 | Day 7  | Brain Game    | [Link](https://practice.geeksforgeeks.org/problems/brain-game1742/1)  | 
 | Day 8  | Brackets in Matrix Chain Multiplication     | [Link](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1)  | 
 | Day 9  | Polynomial Addition    | [Link](https://practice.geeksforgeeks.org/problems/polynomial-addition/1)  | 
 | Day 10 | Find all possible paths from top to bottom    | [Link](https://practice.geeksforgeeks.org/problems/find-all-possible-paths-from-top-to-bottom/1)  | 
 | Day 11 |  Reaching the heights  | [Link](https://practice.geeksforgeeks.org/problems/reaching-the-heights1921/1)  | 
-| Day 12 |    | [Link]()  | 
-| Day 13  |    | [Link]()  | 
-| Day 14 |    | [Link]()  | 
-| Day 15 |    | [Link]()  | 
-| Day 16 |    | [Link]()  | 
-| Day 17  |    | [Link]()  | 
-| Day 18  |    | [Link]()  | 
-| Day 19  |    | [Link]()  | 
-| Day 20  |    | [Link]()  | 
+| Day 12 |  Find minimum number of Laptops required  | [Link](https://practice.geeksforgeeks.org/problems/af49b143a4ead583e943ca6176fbd7ea55b121ae/1)  | 
+| Day 13  |  Single valued subtree  | [Link](https://practice.geeksforgeeks.org/problems/single-valued-subtree/1)  | 
+| Day 14 |  Asteroid Collision  | [Link](https://practice.geeksforgeeks.org/problems/asteroid-collision/1)  | 
+| Day 15 |  Largest subtree sum in a tree  | [Link](https://practice.geeksforgeeks.org/problems/largest-subtree-sum-in-a-tree/1)  | 
+| Day 16 |  Container With Most Water  | [Link](https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1)  | 
+| Day 17  |  Akku and Binary Numbers  | [Link](https://practice.geeksforgeeks.org/problems/akku-and-binary-numbers0902/1)  | 
+| Day 18  | Missing number in matrix   | [Link](https://practice.geeksforgeeks.org/problems/missing-number-in-matrix5316/1)  | 
+| Day 19  | Burst Balloons   | [Link](https://practice.geeksforgeeks.org/problems/burst-balloons/1)  | 
+| Day 20  |  Zero Sum Subarrays  | [Link](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)  | 
 | Day 47  |  Fact Digit Sum  | [Link](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)  | 
 | Day 48  | Knight Walk  | [Link](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)  | 
 | Day 49  |  Longest Sub-Array with Sum K  | [Link](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)  | 
@@ -32,7 +32,6 @@
 | Day 56  | Counting elements in two arrays   | [Link](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)  | 
 | Day 57  |  Count Palindromic Subsequences  | [Link](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)  | 
 | Day 58  |  Alternate positive and negative numbers  | [Link](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)  | 
-| Day 59  | Binary Tree to DLL   | [Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)  | 
 | Day 59  | Binary Tree to DLL   | [Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)  | 
 | Day 60  |    | [Link]()  | 
 | Day 61  | Merging Details   | [Link](https://practice.geeksforgeeks.org/problems/merging-details/1)  | 
@@ -65,10 +64,10 @@
 | Day 89  | Minimum Cost of ropes | [Link](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)  | 
 | Day 90  | Fitting The Array | [Link](https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1)  | 
 | Day 91  | Sort an array of 0s, 1s and 2s | [Link](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)  | 
-| Day 92  |  | [Link]()  | 
-| Day 93  |  | [Link]()  | 
-| Day 94  |  | [Link]()  | 
-| Day 95  |  | [Link]()  | 
+| Day 92  | Find the Safe Position | [Link](https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle1840/1)  | 
+| Day 93  | Number of Distinct Islands | [Link](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1)  | 
+| Day 94  | Minimum characters to be added at front to make string palindrome | [Link](https://practice.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1)  | 
+| Day 95  | Modified Numbers and Queries | [Link](https://practice.geeksforgeeks.org/problems/modified-numbers-and-queries0904/1)  | 
 | Day 96  | Count all possible paths from top left to bottom right | [Link](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1)  | 
 | Day 97  | Geek and Strings | [Link](https://practice.geeksforgeeks.org/problems/geek-and-strings3030/1)  | 
 | Day 98  | Lexicographically smallest string | [Link](https://practice.geeksforgeeks.org/problems/mila-and-strings0435/1)  |
