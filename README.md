@@ -73,3 +73,4 @@
 | Day 97  | Geek and Strings | [Link](https://practice.geeksforgeeks.org/problems/geek-and-strings3030/1)  | 
 | Day 98  | Lexicographically smallest string | [Link](https://practice.geeksforgeeks.org/problems/mila-and-strings0435/1)  |
 | Day 99  | My Calendar III| [Link](https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1)  |
+| Day 100  | Substrings of length k| [Link](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1)  |
